@@ -1,0 +1,1 @@
+console.log("Sua incrição foi realizada com sucesso!")
