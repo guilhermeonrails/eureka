@@ -1,4 +1,4 @@
-# 📬 Landing Page para Newsletter
+# 📬 Landing Page
 
 Este projeto é uma **landing page responsiva** criada com **HTML** e **CSS** com o objetivo de captar e-mails para uma newsletter. Ela possui um visual moderno, limpo e otimizado para diferentes dispositivos, tornando a experiência do usuário agradável e intuitiva.
 
